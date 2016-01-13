@@ -2,17 +2,16 @@
 
 Generate Markdown Specification from JSON Schema (written in JSON or YAML)
 
-# Install
+## Install
 
 `
 npm install -g mdschema
 `
 
-# Use
+## Use
 `
 mdschema [options]
 `
 
-# LICENCE
+## LICENCE
 BSD
-# mdschema
