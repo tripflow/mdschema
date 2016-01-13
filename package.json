@@ -1,0 +1,27 @@
+{
+  "name": "mdschema",
+  "version": "0.1.0",
+  "description": "Generate Markdown from JSON Schema",
+  "main": "index.js",
+  "bin": {
+    "schema-doc": "bin/mdschema"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Stránský <jan.stransky@arnal.cz>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tripflow/mdschema.git"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "commander": "^2.7.1",
+    "debug": "^2.1.3",
+    "jmespath": "^0.10.0",
+    "js-yaml": "^3.2.7",
+    "lodash": "^3.6.0",
+    "mustache": "^2.0.0"
+  }
+}
