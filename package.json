@@ -1,10 +1,10 @@
 {
   "name": "mdschema",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate Markdown from JSON Schema",
   "main": "index.js",
   "bin": {
-    "schema-doc": "bin/mdschema"
+    "mdschema": "bin/mdschema"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
