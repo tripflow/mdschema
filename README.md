@@ -4,12 +4,12 @@ Generate Markdown Specification from JSON Schema (written in JSON or YAML)
 
 ## Install
 
-`
+```
 npm install -g mdschema
-`
+```
 
 ## Use
-`
+```
   Usage: mdschema [options]
 
   Options:
@@ -20,7 +20,7 @@ npm install -g mdschema
     -p, --print          Print result to stdout
     -v, --verbose        Verbose
     -V, --version        output the version number
-`
+```
 
 ## LICENCE
 BSD
